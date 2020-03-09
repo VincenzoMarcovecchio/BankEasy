@@ -41,7 +41,7 @@ function App() {
               img={articleItem.img}
               author={articleItem.author}
               title={articleItem.title}
-              content={articleItem.content}
+              content={articleItem.content.substring(0, 300) + " ..."}
             />
           ))}
         </div>

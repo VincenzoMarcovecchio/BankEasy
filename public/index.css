@@ -197,7 +197,7 @@ button:hover {
   width: 43%;
 }
 h1 {
-  font-size: 2.9rem;
+  font-size: 3rem;
   font-weight: 300;
   margin-bottom: 1.2rem;
   color: var(--DarkBlue);
@@ -286,7 +286,7 @@ h1 {
     height: 40rem;
   }
   .image-container {
-    margin-top: -74%;
+    margin-top: -50%;
   }
   h1 {
     font-size: 1.8rem;
@@ -295,7 +295,7 @@ h1 {
     font-size: 1rem;
   }
   .text-container {
-    transform: translateY(-94px);
+    transform: translateY(-65px);
   }
 }
 /*WHY SECTION*/
@@ -319,7 +319,7 @@ h1 {
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 2.18rem;
   color: var(--DarkBlue);
   margin-bottom: 1.3rem;
   font-weight: 300;
@@ -341,7 +341,7 @@ h3 {
   margin-bottom: 1.3rem;
 }
 .card {
-  width: 22%;
+  width: 23%;
   height: 100%;
 }
 @media screen and (max-width: 1024px) {
