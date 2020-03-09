@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/BankEasy/static/js/main.f5ae9215.chunk.js",
+    "main.js.map": "/BankEasy/static/js/main.f5ae9215.chunk.js.map",
+    "runtime-main.js": "/BankEasy/static/js/runtime-main.367d59ea.js",
+    "runtime-main.js.map": "/BankEasy/static/js/runtime-main.367d59ea.js.map",
+    "static/js/2.e7414c1e.chunk.js": "/BankEasy/static/js/2.e7414c1e.chunk.js",
+    "static/js/2.e7414c1e.chunk.js.map": "/BankEasy/static/js/2.e7414c1e.chunk.js.map",
+    "index.html": "/BankEasy/index.html",
+    "precache-manifest.e5e07b521ae11f6e7b4ad6165010a7ef.js": "/BankEasy/precache-manifest.e5e07b521ae11f6e7b4ad6165010a7ef.js",
+    "service-worker.js": "/BankEasy/service-worker.js",
+    "static/js/2.e7414c1e.chunk.js.LICENSE.txt": "/BankEasy/static/js/2.e7414c1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.367d59ea.js",
+    "static/js/2.e7414c1e.chunk.js",
+    "static/js/main.f5ae9215.chunk.js"
+  ]
+}
