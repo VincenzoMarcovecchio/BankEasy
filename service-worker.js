@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BankEasy/precache-manifest.e5e07b521ae11f6e7b4ad6165010a7ef.js"
+  "/BankEasy/precache-manifest.963165036d2131fefd4f63925ab735ae.js"
 );
 
 self.addEventListener('message', (event) => {

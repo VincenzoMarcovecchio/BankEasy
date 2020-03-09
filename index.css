@@ -151,9 +151,10 @@ button:hover {
   .nav-link {
     color: var(--DarkBlue);
     margin: 0;
+    font-size: 1.2rem;
   }
   .nav-bar ul li {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.7rem;
   }
   .nav-bar ul li:last-child {
     margin: 0;
@@ -192,6 +193,20 @@ button:hover {
   background-position: right;
   background-repeat: no-repeat;
   background-size: contain;
+}
+.before {
+  position: fixed;
+  top: 0;
+  right: 0%;
+  height: 100vh;
+  left: 0%;
+  opacity: 0.4;
+  background: linear-gradient(var(--DarkBlue), var(--GrayishBlue));
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  display: none;
+  z-index: 9;
 }
 
 .text-container {
@@ -232,7 +247,7 @@ h1 {
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-  z-index: 3;
+  z-index: 5;
 }
 @media screen and (max-width: 1024px) {
   .hero-section {

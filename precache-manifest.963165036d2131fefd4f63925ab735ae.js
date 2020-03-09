@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e68b9b3ecd9517a72cff9ac20def54f",
+    "revision": "b0211b1771a86c98e18911af883a49e4",
     "url": "/BankEasy/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BankEasy/static/js/2.e7414c1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4c3a5e24d7955ed33a64",
-    "url": "/BankEasy/static/js/main.f5ae9215.chunk.js"
+    "revision": "7c0478fee57d91927890",
+    "url": "/BankEasy/static/js/main.2057f2f0.chunk.js"
   },
   {
     "revision": "76d1f87c335344695b9b",
