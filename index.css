@@ -146,6 +146,7 @@ button:hover {
     border-radius: 5px;
     padding: 1.8rem;
     display: none;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
   }
   .nav-link {
     color: var(--DarkBlue);
@@ -273,7 +274,7 @@ h1 {
   }
 
   h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
 }
 
@@ -283,19 +284,21 @@ h1 {
     bottom: 5%;
   }
   .hero-section {
-    height: 40rem;
+    height: 50rem;
   }
   .image-container {
-    margin-top: -50%;
+    margin-top: -55%;
   }
   h1 {
-    font-size: 1.8rem;
+    font-size: 2rem;
+    width: 300px;
+    margin: 0 auto 1.2rem auto;
   }
   .hero-p {
-    font-size: 1rem;
+    font-size: 1.1rem;
   }
   .text-container {
-    transform: translateY(-65px);
+    transform: translateY(-99px);
   }
 }
 /*WHY SECTION*/
@@ -365,7 +368,7 @@ h3 {
     margin: auto;
   }
   h2 {
-    font-size: 1.8rem;
+    font-size: 1.9rem;
     text-align: center;
   }
   .cards-container {
